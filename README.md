@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Valentín! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Systems+Engineering+Student+5th+Year+UNS+Bah%C3%ADa+Blanca;Full-Stack+Developer;Mobile+%26+Web+Apps;Always+Learning+AI%2FCloud;Open+to+Remote+Opportunities" /></a>
+  <a href="https://readme-typing-svg.herokuapp.com"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Systems+Engineering+Student+5th+Year+UNS+Bah%C3%ADa+Blanca;Full-Stack+Developer;Always+Learning+AI%2FCloud;Open+to+Remote+Opportunities" /></a>
 </p>
 
 ## <img src="https://github.com/yourusername/yourusername/blob/main/Images/about_me.gif?raw=true" width="50"> About Me
