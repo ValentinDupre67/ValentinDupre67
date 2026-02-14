@@ -69,5 +69,3 @@
 **Design Patterns**: MVC, MVP, MVVM  
 **Best Practices**: SOLID Principles, Clean Code
 
-## 🔥 Featured Repositories
-*(Paste repo cards here once you share links)*
