@@ -9,7 +9,7 @@
 <img align="right" src="https://github.com/yourusername/yourusername/blob/main/Images/Right_Side.gif?raw=true" width="250">
 
 - 🏫 5th year **Systems Engineering** student at [Universidad Nacional del Sur (UNS)](https://www.uns.edu.ar/), Bahía Blanca, Argentina.
-- 💼 **1+ years freelance experience** building turn scheduling systems and dashboards for local clients.
+- 💼 **2+ years freelance experience** building turn scheduling systems and dashboards for local clients.
 - 🔍 I like to explore new technologies and develop software solutions and quick hacks.
 - 🧑‍💻 I love using Software as a solution for every Problem.
 - 🤔 **Open to remote opportunities** LATAM (Chile/Uruguay/Mexico).
